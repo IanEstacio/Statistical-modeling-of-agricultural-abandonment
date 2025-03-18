@@ -3,11 +3,6 @@ install.packages("pscl")
 install.packages("ROCR")
 library(pscl)
 library(ROCR)
-setwd("C:/Users/estac/Documents/(Acads) PhD - Environmental Management/Dissertation/Data/2. Logistic regression/...Revision/Bivariate analysis/WorkingDIR")
-getwd()
-##set the personal library
-.libPaths("C:/Users/estac/Documents/(Acads) PhD - Environmental Management/Dissertation/Data/2. Logistic regression/Final regression/WorkingDIR/MyLibrary")
-#.libPaths() ## Press tab for options
 
 
 ##1. Add and attach training csv to R
